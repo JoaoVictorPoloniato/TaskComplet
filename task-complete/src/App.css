@@ -58,3 +58,10 @@ input, select {
   border-radius: 3px;
   width: 100%;
 }
+
+.complete{
+  background-color: rgb(7, 196, 7);
+}
+.remove{
+  background-color: #ca1a14;
+}
